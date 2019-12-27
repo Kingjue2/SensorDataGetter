@@ -1,0 +1,3 @@
+Data obtained by APP.
+The average values are calculated manually.
+The dip direction and dip angle are calculate by Excel.
